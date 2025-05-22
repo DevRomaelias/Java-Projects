@@ -12,6 +12,5 @@ public class App {
             LoginController loginController = new LoginController(loginView);
             loginView.setVisible(true);
         });
-
     }
 }
